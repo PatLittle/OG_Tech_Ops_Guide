@@ -1,14 +1,20 @@
-# DRAFT (for demo) OG Tech Ops Guide
+# Open GOvernment Tech Ops Aide-de-Memoire
 
-A guide for OG Portal Team on hwo to conduct basic technical operations tasks.
+This is a guide for the OG Portal Team on hwo to conduct basic technical operations tasks. Whether you are new to the team, or something is broken and no one else is around, this guide is meant to walk you step by step through various techincal tasks that might need to get done.
 
 ## Table of Contents
 
-* Deploying Code from GitHub to Servers
+* Build PD Templates
+* Export Results from Drupal Web Form
 * Restart services
-* Make CKAN user SYSADMIN
-* etc
-* etc
+* Deploy Code from Github to Servers
+* Make CKAN User SYSADMIN - PROD
+* Make CKAN USer SYSADMIN - STAGING
+* Using the Make file to Manually Update Proactive Disclosures / Recombinant Types on the Portal
+* Using the Make file to Export a Proactive Disclosures / Recombinant Type to a Static File
+* Requesting a Whitelist for Registry
+* Using the CKAN API to Modify an Existing Record on the Portal
+* Using the CKAN API to get a List of Registry Users' Email Addresses
 
 ## Example Screen Shot
 ![screenshot](img/ckanapi.png)
